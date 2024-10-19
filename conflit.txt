@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 La première ligne //la branche1 a touchée ici
 La deuxième ligne 
+=======
+La première ligne 
+La deuxième ligne // la branche2 a touché ici
+>>>>>>> branche2
 La troisième ligne 
